@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wh4rgo
 - 👀 I’m interested in artificial intelligence and mobile application development
-- 🌱 I’m currently learning neuronal networks
+- 🌱 I’m currently learning on team management and more productive teams.
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me @wh4rg0 on twitter
 
